@@ -361,6 +361,17 @@
                   </div>
 
                   {%- if product.title == 'DTF Custom Size' -%}
+                    <label class="quantity__label form__label" for="Quantity-{{ section.id }}">
+                      Size
+                      <span class="quantity__rules-cart{% if cart_qty == 0 %} hidden{% endif %}">
+                        {%- render 'loading-spinner' -%}
+                        <span
+                          >(
+                          {{- 'products.product.quantity.in_cart_html' | t: quantity: cart_qty -}}
+                          )</span
+                        >
+                      </span>
+                    </label>
                   <div class="price-per-item__container_size">
                     <quantity-input class="quantity" data-url="{{ product.url }}" data-section="{{ section.id }}">
                       <button class="quantity__button" name="minus" type="button">
