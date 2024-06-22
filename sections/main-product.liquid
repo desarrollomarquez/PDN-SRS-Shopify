@@ -360,6 +360,10 @@
                     {%- endif -%}
                   </div>
 
+
+
+
+
                   {%- if product.title == 'DTF Custom Size' -%}
                     <label class="quantity__label form__label" for="Quantity-{{ section.id }}">
                       Size
@@ -373,18 +377,14 @@
                       </span>
                     </label>
                   <div class="price-per-item__container_size">
+                    
                     <quantity-input class="quantity" data-url="{{ product.url }}" data-section="{{ section.id }}">
-                      <button class="quantity__button" name="minus" type="button">
-                        <span class="visually-hidden">
-                          {{- 'products.product.quantity.decrease' | t: product: product.title | escape -}}
-                        </span>
-                        {% render 'icon-minus' %}
-                      </button>
+                      
                       <input
                         class="quantity__input"
                         type="number"
-                        name="quantity"
-                        id="Quantity-{{ section.id }}"
+                        name="size"
+                        id="Size-{{ section.id }}"
                         data-cart-quantity="{{ cart_qty }}"
                         data-min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
                         min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
@@ -392,16 +392,11 @@
                           data-max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
                           max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
                         {% endif %}
-                        step="{{ product.selected_or_first_available_variant.quantity_rule.increment }}"
+                       
                         value="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
                         form="{{ product_form_id }}"
                       >
-                      <button class="quantity__button" name="plus" type="button">
-                        <span class="visually-hidden">
-                          {{- 'products.product.quantity.increase' | t: product: product.title | escape -}}
-                        </span>
-                        {% render 'icon-plus' %}
-                      </button>
+                      
                     </quantity-input>
                     {%- liquid
                       assign volume_pricing_array = product.selected_or_first_available_variant.quantity_price_breaks | sort: 'quantity' | reverse
