@@ -386,14 +386,12 @@
                           name="properties[width]"
                           id="Width-{{ section.id }}"
                           data-cart-quantity="{{ cart_qty }}"
-                          data-min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                          min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                          {% if product.selected_or_first_available_variant.quantity_rule.max != null %}
-                            data-max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
-                            max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
-                          {% endif %}
-
-                          value="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
+                          data-min="4.0"
+                          min="4.0"
+                          data-max="22.0"
+                          max="22.0"
+                          
+                          value="4.0"
                           form="{{ product_form_id }}"
                         >
                       </quantity-input>
@@ -424,12 +422,11 @@
                           name="properties[height]"
                           id="Height-{{ section.id }}"
                           data-cart-quantity="{{ cart_qty }}"
-                          data-min="4"
-                          min="4"
-                          data-max="120"
-                          max="120"
-
-                          value="4"
+                          data-min="4.0"
+                          min="4.0"
+                          data-max="120.0"
+                          max="120.0"
+                          value="4.0"
                           form="{{ product_form_id }}"
                         >
                       </quantity-input>
