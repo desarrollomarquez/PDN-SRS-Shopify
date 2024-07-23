@@ -424,14 +424,12 @@
                           name="properties[height]"
                           id="Height-{{ section.id }}"
                           data-cart-quantity="{{ cart_qty }}"
-                          data-min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                          min="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
-                          {% if product.selected_or_first_available_variant.quantity_rule.max != null %}
-                            data-max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
-                            max="{{ product.selected_or_first_available_variant.quantity_rule.max }}"
-                          {% endif %}
+                          data-min="4"
+                          min="4"
+                          data-max="120"
+                          max="120"
 
-                          value="{{ product.selected_or_first_available_variant.quantity_rule.min }}"
+                          value="4"
                           form="{{ product_form_id }}"
                         >
                       </quantity-input>
