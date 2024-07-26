@@ -9,7 +9,9 @@
 */
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/Logo-softrebellion.png",
     "logo_width": 80,
+    "favicon": "shopify:\/\/shop_images\/Logo-softrebellion.png",
     "type_header_font": "oswald_n5",
     "heading_scale": 140,
     "type_body_font": "avenir_next_n5",
@@ -140,6 +142,9 @@
         }
       }
     },
+    "content_for_index": [
+
+    ],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -187,11 +192,11 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#00FCED",
+          "background": "#00fced",
           "background_gradient": "",
           "text": "#1f1f21",
           "button": "#1f1f21",
-          "button_label": "#00FCED",
+          "button_label": "#00fced",
           "secondary_button_label": "#1f1f21",
           "shadow": "#ffffff"
         }
