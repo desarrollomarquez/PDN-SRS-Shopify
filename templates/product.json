@@ -67,7 +67,7 @@
         "custom_liquid_bcGqxV": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"product-form__submit \">\n                        <input\n                          class=\"product-form__submit\"\n                          type=\"file\"\n                          name=\"properties[file]\"\n                          id=\"File-{{ section.id }}\"\n                          accept=\"image\/*,.png\"\n                          form=\"{{ product_form_id }}\"\n                        >\n\n                    <\/div>"
+            "custom_liquid": ""
           }
         }
       },
