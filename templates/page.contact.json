@@ -1,1 +1,65 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":20,"padding_bottom":0}},"form":{"type":"contact-form","settings":{"heading":"","heading_size":"h2","color_scheme":"scheme-1","padding_top":0,"padding_bottom":20}}},"order":["main","form"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_fBgdit": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3NekTP": {
+          "type": "heading",
+          "settings": {
+            "heading": "For more information ...",
+            "heading_size": "h1"
+          }
+        },
+        "text_ndTrmD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email: orders@softrebellionsolutions.com<br\/><br\/>Contact Number : +1 (646) 895-4515<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3NekTP",
+        "text_ndTrmD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_fBgdit",
+    "form"
+  ]
+}
