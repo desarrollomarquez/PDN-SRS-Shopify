@@ -364,6 +364,11 @@
                     Bloque de condiciones de producto   a la medida....
                   -->
 
+                  {% if product.metafields.custom.price-measure %}
+                    <p>Precio por Medida: {{ product.metafields.custom.price-measure }}</p>
+                  {% endif %}
+
+
                   {%- if product.title == 'DTF Custom Size' -%}
                     <label class="quantity__label form__label" for="Quantity-{{ section.id }}">
                       Width (inch)
