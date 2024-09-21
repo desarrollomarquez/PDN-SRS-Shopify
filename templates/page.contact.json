@@ -38,12 +38,27 @@
           "settings": {
             "text": "<p><strong>Victor Castillo<\/strong><\/p><p><strong>Email: orders@softrebellionsolutions.com<br\/>Contact: +1 (646) 895 - 4515<\/strong><\/p>"
           }
+        },
+        "heading_wQ3qcN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Technical Service:",
+            "heading_size": "h1"
+          }
+        },
+        "text_g7AiBT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Diego Márquez<\/strong><\/p><p><strong>Email: tech-service@softrebellionsolutions.com<br\/>Contact: +1 (551) 327 - 0012<\/strong><\/p>"
+          }
         }
       },
       "block_order": [
         "heading_3NekTP",
         "heading_9crDJA",
-        "text_ndTrmD"
+        "text_ndTrmD",
+        "heading_wQ3qcN",
+        "text_g7AiBT"
       ],
       "settings": {
         "desktop_content_position": "center",
