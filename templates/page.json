@@ -20,17 +20,6 @@
     "multirow_Jy7kec": {
       "type": "multirow",
       "blocks": {
-        "row_RhDGGM": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/print-on-demand2.jpg",
-            "caption": "",
-            "heading": "On-Demand DTF printing services for custom products",
-            "text": "<p>We offer fast and reliable on-demand DTF (Direct to Film) printing for a wide range of custom products. Whether you are looking for custom t-shirts, hoodies, tote bags or promotional items, our high-quality dtf printing ensures your designs stand out. You can create unique items for personal use or for your business.<\/p>",
-            "button_label": "Contact us",
-            "button_link": "shopify:\/\/pages\/contact"
-          }
-        },
         "row_gpFTcB": {
           "type": "row",
           "settings": {
@@ -38,6 +27,17 @@
             "caption": "",
             "heading": "On-Site DTF Printer Repair and Maintenance Service",
             "text": "<p>We provide reliable <strong>on-site repair and maintenance<\/strong> services for DTF printers and equipment, ensuring minimal downtime and maximum efficiency for your business. Our expert technicians will travel to your location, diagnose issues, and deliver quick solutions to keep your machines running smoothly.<\/p>",
+            "button_label": "Contact us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "row_RhDGGM": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/print-on-demand2.jpg",
+            "caption": "",
+            "heading": "On-Demand DTF printing services for custom products",
+            "text": "<p>We offer fast and reliable on-demand DTF (Direct to Film) printing for a wide range of custom products. Whether you are looking for custom t-shirts, hoodies, tote bags or promotional items, our high-quality dtf printing ensures your designs stand out. You can create unique items for personal use or for your business.<\/p>",
             "button_label": "Contact us",
             "button_link": "shopify:\/\/pages\/contact"
           }
@@ -54,8 +54,8 @@
         }
       },
       "block_order": [
-        "row_RhDGGM",
         "row_gpFTcB",
+        "row_RhDGGM",
         "row_iRRdnH"
       ],
       "settings": {
