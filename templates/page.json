@@ -41,22 +41,11 @@
             "button_label": "Contact us",
             "button_link": "shopify:\/\/pages\/contact"
           }
-        },
-        "row_iRRdnH": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_gpFTcB",
-        "row_RhDGGM",
-        "row_iRRdnH"
+        "row_RhDGGM"
       ],
       "settings": {
         "image_height": "medium",
