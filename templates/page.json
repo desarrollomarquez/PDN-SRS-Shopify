@@ -34,10 +34,11 @@
         "row_gpFTcB": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/services.png",
+            "caption": "",
+            "heading": "On-Site DTF Printer Repair and Maintenance Service",
+            "text": "<p>We provide reliable <strong>on-site repair and maintenance<\/strong> services for DTF printers and equipment, ensuring minimal downtime and maximum efficiency for your business. Our expert technicians will travel to your location, diagnose issues, and deliver quick solutions to keep your machines running smoothly.<\/p>",
+            "button_label": "Contact us",
             "button_link": ""
           }
         },
