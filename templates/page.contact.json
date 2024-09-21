@@ -26,15 +26,23 @@
             "heading_size": "h1"
           }
         },
+        "heading_9crDJA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Orders:",
+            "heading_size": "h1"
+          }
+        },
         "text_ndTrmD": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Email: orders@softrebellionsolutions.com<br\/><br\/>Contact Number : +1 (646) 895 - 4515<\/strong><\/p>"
+            "text": "<p><strong>Victor Castillo<\/strong><\/p><p><strong>Email: orders@softrebellionsolutions.com<br\/>Contact: +1 (646) 895 - 4515<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "heading_3NekTP",
+        "heading_9crDJA",
         "text_ndTrmD"
       ],
       "settings": {
