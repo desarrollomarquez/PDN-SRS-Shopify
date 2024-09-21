@@ -23,11 +23,12 @@
         "row_RhDGGM": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/print-on-demand.jpg",
+            "caption": "",
+            "heading": "On-Demand Printing Services for Custom Products.",
+            "text": "<p>We offer fast and reliable print-on-demand for a wide range of custom products. Whether you're looking for custom t-shirts, hoodies, tote bags or promotional items, our high-quality printing ensures your designs stand out. You can create unique items for personal use or for your business.<\/p>",
+            "button_label": "Contact us",
+            "button_link": "shopify:\/\/pages\/contact"
           }
         },
         "row_gpFTcB": {
