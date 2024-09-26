@@ -16,11 +16,11 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/portrait-handsome-man-stylish-hipster.jpg",
-            "heading": "Image slide",
+            "heading": "<strong>Welcome to Soft Rebellion</strong>",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
-            "link": "",
+            "link": "shopify://collections/men",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -125,6 +125,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
