@@ -49,8 +49,8 @@
       "type": "footer",
       "settings": {
         "color_scheme": "scheme-2",
-        "newsletter_enable": false,
-        "newsletter_heading": "",
+        "newsletter_enable": true,
+        "newsletter_heading": "Register with us",
         "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": true,
