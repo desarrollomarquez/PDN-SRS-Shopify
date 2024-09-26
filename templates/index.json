@@ -91,9 +91,8 @@
         "slide_Q6Y6q9",
         "slide_VRpYzC"
       ],
-      "disabled": true,
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "medium",
         "slider_visual": "counter",
         "auto_rotate": false,
