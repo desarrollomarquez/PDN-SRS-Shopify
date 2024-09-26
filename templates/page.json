@@ -23,23 +23,23 @@
         "row_gpFTcB": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/services.png",
+            "image": "shopify://shop_images/services.png",
             "caption": "",
             "heading": "On-Site DTF Printer Repair and Maintenance Service",
-            "text": "<p>We provide reliable <strong>on-site repair and maintenance<\/strong> services for DTF printers and equipment, ensuring minimal downtime and maximum efficiency for your business. Our expert technicians will travel to your location, diagnose issues, and deliver quick solutions to keep your machines running smoothly.<\/p>",
+            "text": "<p>We provide reliable <strong>on-site repair and maintenance</strong> services for DTF printers and equipment, ensuring minimal downtime and maximum efficiency for your business. Our expert technicians will travel to your location, diagnose issues, and deliver quick solutions to keep your machines running smoothly.</p>",
             "button_label": "Contact us",
-            "button_link": "shopify:\/\/pages\/contact"
+            "button_link": "shopify://pages/contact"
           }
         },
         "row_RhDGGM": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/print-on-demand2.jpg",
+            "image": "shopify://shop_images/print-on-demand2.jpg",
             "caption": "",
             "heading": "On-Demand DTF printing services for custom products",
-            "text": "<p>We offer fast and reliable on-demand DTF (Direct to Film) printing for a wide range of custom products. Whether you are looking for custom t-shirts, hoodies, tote bags or promotional items, our high-quality dtf printing ensures your designs stand out. You can create unique items for personal use or for your business.<\/p>",
+            "text": "<p>We offer fast and reliable on-demand DTF (Direct to Film) printing for a wide range of custom products. Whether you are looking for custom t-shirts, hoodies, tote bags or promotional items, our high-quality dtf printing ensures your designs stand out. You can create unique items for personal use or for your business.</p>",
             "button_label": "Contact us",
-            "button_link": "shopify:\/\/pages\/contact"
+            "button_link": "shopify://pages/contact"
           }
         }
       },
@@ -62,10 +62,82 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_cP7Ecx": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_p7W6PY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TERMS AND CONDITIONS",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_6tktAL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "PAYMENT POLICY",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_w4xfrd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SHIPPING POLICY",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_6VwUpB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "PRIVACY POLICY",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_PriV6i": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "RETURN POLICY",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_p7W6PY",
+        "collapsible_row_6tktAL",
+        "collapsible_row_w4xfrd",
+        "collapsible_row_6VwUpB",
+        "collapsible_row_PriV6i"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Terms of Service",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "multirow_Jy7kec"
+    "multirow_Jy7kec",
+    "collapsible_content_cP7Ecx"
   ]
 }
