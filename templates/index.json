@@ -16,8 +16,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/model-posing-street.jpg",
-            "heading": "<strong>Welcome to Soft Rebellion</strong>",
-            "heading_size": "h2",
+            "heading": "Welcome to Soft Rebellion",
+            "heading_size": "h1",
             "subheading": "Discover your own style for",
             "button_label": "Women",
             "link": "shopify://collections/woman",
