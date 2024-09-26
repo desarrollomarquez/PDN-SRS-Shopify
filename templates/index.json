@@ -47,11 +47,30 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_Q6Y6q9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/beard-asian-man.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_fyULrt",
-        "slide_tRhP99"
+        "slide_tRhP99",
+        "slide_Q6Y6q9"
       ],
       "settings": {
         "layout": "full_bleed",
