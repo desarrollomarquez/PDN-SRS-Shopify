@@ -81,7 +81,7 @@
             "heading": "PAYMENT POLICY",
             "icon": "check_mark",
             "row_content": "",
-            "page": ""
+            "page": "payment-policy"
           }
         },
         "collapsible_row_w4xfrd": {
@@ -90,7 +90,7 @@
             "heading": "SHIPPING POLICY",
             "icon": "check_mark",
             "row_content": "",
-            "page": ""
+            "page": "shipping-policy"
           }
         },
         "collapsible_row_6VwUpB": {
@@ -99,7 +99,7 @@
             "heading": "PRIVACY POLICY",
             "icon": "check_mark",
             "row_content": "",
-            "page": ""
+            "page": "privacy-policy"
           }
         },
         "collapsible_row_PriV6i": {
@@ -108,7 +108,7 @@
             "heading": "RETURN POLICY",
             "icon": "check_mark",
             "row_content": "",
-            "page": ""
+            "page": "return-policy"
           }
         }
       },
