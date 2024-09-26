@@ -12,15 +12,15 @@
     "slideshow_igFgYg": {
       "type": "slideshow",
       "blocks": {
-        "slide_fyULrt": {
+        "slide_tRhP99": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/portrait-handsome-man-stylish-hipster.jpg",
+            "image": "shopify://shop_images/model-posing-street.jpg",
             "heading": "<strong>Welcome to Soft Rebellion</strong>",
-            "heading_size": "h1",
-            "subheading": "Imagine these designs for",
-            "button_label": "Men",
-            "link": "shopify://collections/men",
+            "heading_size": "h2",
+            "subheading": "Discover your own style for",
+            "button_label": "Women",
+            "link": "shopify://collections/woman",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -30,15 +30,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_tRhP99": {
+        "slide_fyULrt": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/model-posing-street.jpg",
+            "image": "shopify://shop_images/portrait-handsome-man-stylish-hipster.jpg",
             "heading": "",
-            "heading_size": "h2",
-            "subheading": "Discover your own style for",
-            "button_label": "Women",
-            "link": "shopify://collections/woman",
+            "heading_size": "h1",
+            "subheading": "Imagine these designs for",
+            "button_label": "Men",
+            "link": "shopify://collections/men",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -104,8 +104,8 @@
         }
       },
       "block_order": [
-        "slide_fyULrt",
         "slide_tRhP99",
+        "slide_fyULrt",
         "slide_Q6Y6q9",
         "slide_VRpYzC",
         "slide_7BWa9m"
