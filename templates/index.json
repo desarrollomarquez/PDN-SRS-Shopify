@@ -87,12 +87,12 @@
         "slide_7BWa9m": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/young-athletic-man-with-kite-surfing-board-posing-beach.jpg",
+            "image": "shopify://shop_images/charming-long-haired-woman-celebrating-halloween.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Love and respect your",
-            "button_label": "Culture",
-            "link": "shopify://collections/guadalupanas",
+            "subheading": "You like fear... Welcome",
+            "button_label": "Halloween",
+            "link": "shopify://collections/halloween",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
